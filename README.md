@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sarkarsaswata
-- 👀 Research interest in AI and Robotics
-- 🌱 Graduated with BSMS Dual Degree in Data Science from IISER Bhopal
+👋 Hi, I’m Saswata Sarkar
 
 <!---
 sarkarsaswata/sarkarsaswata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
